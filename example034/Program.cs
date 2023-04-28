@@ -9,21 +9,21 @@ int count = 0;
 
 for (int x = 0; x < num.Length; x++)
 {
-if (num[x] % 2 == 0)
-count++;
+    if (num[x] % 2 == 0)
+        count++;
 }
 Console.WriteLine($"из {num.Length} чисел, {count} четных");
 void RandomNum(int[] num)
 {
-    for(int i = 0; i < size; i++)
+    for (int i = 0; i < size; i++)
     {
-        num[i] = new Random().Next(100,1000);
+        num[i] = new Random().Next(100, 1000);
     }
 }
 void PrintArray(int[] num)
 {
     Console.Write("[ ");
-    for(int i = 0; i < num.Length; i++)
+    for (int i = 0; i < num.Length; i++)
     {
         Console.Write(num[i] + " ");
     }
