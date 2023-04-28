@@ -1,0 +1,15 @@
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.csproj.AssemblyReference.cache
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.GeneratedMSBuildEditorConfig.editorconfig
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.AssemblyInfoInputs.cache
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.AssemblyInfo.cs
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.csproj.CoreCompileInputs.cache
+D:\seminar 5 homework\example038\bin\Debug\net6.0\example038.exe
+D:\seminar 5 homework\example038\bin\Debug\net6.0\example038.deps.json
+D:\seminar 5 homework\example038\bin\Debug\net6.0\example038.runtimeconfig.json
+D:\seminar 5 homework\example038\bin\Debug\net6.0\example038.dll
+D:\seminar 5 homework\example038\bin\Debug\net6.0\example038.pdb
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.dll
+D:\seminar 5 homework\example038\obj\Debug\net6.0\refint\example038.dll
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.pdb
+D:\seminar 5 homework\example038\obj\Debug\net6.0\example038.genruntimeconfig.cache
+D:\seminar 5 homework\example038\obj\Debug\net6.0\ref\example038.dll
